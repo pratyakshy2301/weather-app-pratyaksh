@@ -20,5 +20,12 @@
  * Fetching the current Weather Using openweathermap Api and manage their data and handles their errors as well as showing temperature in celcius and fahrenheit.
  * Also displaying the current situation weather image.
  * And Another file weatherDetails.jsx  to maintain Ui  components and details to display
+
+   ### NOTE
+   * I have added a favourite button
+   * I have added a checkbox to chnange theme
+   * I have showed temperature in both Celsius and Fahrenhiete
+   * I have created a Home, Signup form
+     
 ### Wanna Try
-  * If Have reference  click here : [pratyakshs-weather-application.netlify.app]
+  * If Have reference  click here or copy this link into your browser : [pratyakshs-weather-application.netlify.app]
