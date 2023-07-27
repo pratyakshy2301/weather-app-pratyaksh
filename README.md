@@ -21,4 +21,4 @@
  * Also displaying the current situation weather image.
  * And Another file weatherDetails.jsx  to maintain Ui  components and details to display
 ### Wanna Try
-  * If Have reference  click here : [https://weatherapp-ap.netlify.app/]
+  * If Have reference  click here : [pratyakshs-weather-application.netlify.app]
